@@ -34,8 +34,8 @@ body
     display: grid;
     grid-template-rows: auto 1fr auto;
     width: 370px;
-    border: solid;
-}
+/*     border: solid;
+ */}
 
 .logo
 {
